@@ -1,0 +1,66 @@
+header {
+    background-color: rgb(222, 27, 74);
+}
+
+.header {
+    margin: 0 auto;
+    width: 940px;
+}
+
+.menu-logo-adm {
+    padding: 20px;
+}
+
+.articles {
+    width: 940px;
+    margin: 0 auto;
+    flex-direction: row;
+}
+
+.title {
+    font-size: 35px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 600;
+    color: #212529;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.tree {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    flex-direction: row;
+}
+
+.text-icon {
+    display: flex;
+    padding: 10px 0;
+}
+
+.container {
+    margin: 0 0 0 50px;
+    flex: 0 45% 45%;
+}
+
+.sub-titles {
+    font-size: 28px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 600;
+    color: #424040;
+    margin: 7px 0 0 10px;
+
+}
+
+ul li {
+    padding: 15px 0;
+}
+
+li a {
+    font-size: 18px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 600;
+    color: #424040;
+    line-height: 1.5;
+}
+
