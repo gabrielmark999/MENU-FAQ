@@ -48,7 +48,7 @@ header {
 	font-family: 'Nunito', sans-serif;
 	font-weight: 600;
     color: #424040;
-    margin: 7px 0 0 10px;
+    margin: 2px 0 0 17px;
 
 }
 
@@ -62,5 +62,11 @@ li a {
 	font-weight: 600;
     color: #424040;
     line-height: 1.5;
+    display: flex;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
 }
 

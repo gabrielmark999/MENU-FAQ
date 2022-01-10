@@ -1,0 +1,58 @@
+header {
+    background-color: rgb(222, 27, 74);
+}
+
+.header {
+    margin: 0 auto;
+    width: 940px;
+}
+
+.menu-logo-adm {
+    padding: 20px;
+}
+
+.title {
+    font-size: 35px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 600;
+    color: #212529;
+    padding-top: 50px;
+}
+
+.text {
+    font-size: 18px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 600;
+    color: #424040;
+    padding-top: 20px;
+}
+
+.section {
+    margin: 0 auto;
+    width: 940px;
+}
+
+.list {
+    margin-top: 30px;
+}
+
+ul li {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin: 0 auto;
+    width: 800px;
+}
+
+li a {
+    font-size: 18px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 600;
+    color: #424040;
+    line-height: 1.5;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
